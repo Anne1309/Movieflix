@@ -153,6 +153,7 @@ const addTransformIndexHtml = {
 console.warn = () => {};
 
 export default defineConfig({
+	base: '/Movieflix/',
 	plugins: [react(), addTransformIndexHtml],
 	server: {
 		cors: true,
