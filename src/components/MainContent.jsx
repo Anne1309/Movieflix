@@ -5,9 +5,9 @@ import { Search, Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useToast } from "@/components/ui/use-toast";
 
-const TMDB_API_KEY = "3fd2be6f0c70a2a598f084ddfb75487c";
-const API_BASE_URL = "https://api.themoviedb.org/3";
-const IMG_BASE_URL = "https://image.tmdb.org/t/p/w500";
+const TMDB_API_KEY = import.meta.env.VITE_TMDB_API_KEY;
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
+const IMG_BASE_URL = import.meta.env.VITE_IMG_BASE_URL;
 
 const MainContent = ({ onLogout }) => {
   const [movies, setMovies] = useState([]);

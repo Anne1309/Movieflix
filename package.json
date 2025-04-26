@@ -3,10 +3,10 @@
   "type": "module",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/Movieflix",
+  "homepage": "https://Anne1309.github.io/Netflix-clone",
   "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "react-scripts build",
     "preview": "vite preview"
