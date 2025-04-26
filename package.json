@@ -1,9 +1,9 @@
 {
-  "name": "netflix-clone",
+  "name": "Movieflix",
   "type": "module",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://Anne1309.github.io/Netflix-clone",
+  "homepage": "https://Anne1309.github.io/Movieflix",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

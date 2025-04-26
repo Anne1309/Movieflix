@@ -45,12 +45,12 @@ It focuses on recreating the look and feel of the Netflix platform with modern t
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Anne1309/Netflix-clone.git
+git clone https://github.com/Anne1309/Movieflix.git
 ```
 
 2. Navigate to project directory
 ```bash
-cd Netflix-clone
+cd Movieflix
 ```
 
 3. Install dependencies
@@ -67,7 +67,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 [Click here to try it live](https://anne1309.github.io/Netflix-clone/)  
+👉 [Click here to try it live](https://anne1309.github.io/Movieflix/)  
 *(Deployed via GitHub Pages)*
 
 ## 📱 Responsive Design
@@ -91,7 +91,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Anne1309/Netflix-clone/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Anne1309/Movieflix/issues).
 
 ## 👏 Acknowledgments
 
